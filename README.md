@@ -16,7 +16,7 @@ This project demonstrates a set of expanding cards with questions and answers, l
 
 ## Final Product
 
-![video sample of project]()
+![video sample of project](attachments/FAQ-and-7-more-pages-Work-Micros.gif))
 
 ## Technologies
 
