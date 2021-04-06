@@ -10,13 +10,13 @@
 
 ## Purpose
 
-This is **Project 8** of Udemy's ["50 Projects in 50 Days for HTML, CSS and JavaScript"](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23595208#overview) taught by Brad Traversy.
+This is **Project 13** of Udemy's ["50 Projects in 50 Days for HTML, CSS and JavaScript"](https://www.udemy.com/course/50-projects-50-days/learn/lecture/23595208#overview) taught by Brad Traversy.
 
-This project demonstrates a login form which displays with a "wave" animation.
+This project demonstrates a set of expanding cards with questions and answers, like a common FAQ section of a webpage.
 
 ## Final Product
 
-![video sample of project](./attachments/Form-Input-Wave-and-13-more-page.gif)
+![video sample of project]()
 
 ## Technologies
 
